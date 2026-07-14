@@ -1,0 +1,4 @@
+
+=== GLOBAL SUMMARY (10 Runs) ===
+mAP50    Mean: 0.0667 | Std: 0.0428
+mAP50-95 Mean: 0.0200 | Std: 0.0141

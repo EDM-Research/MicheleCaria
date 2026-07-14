@@ -1,0 +1,2 @@
+=== RUN 10 (seed=1010) ===
+Validation Results -> mAP50: 0.0092 | mAP50-95: 0.0025
