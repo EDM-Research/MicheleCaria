@@ -1,7 +1,6 @@
 #!/bin/bash
 
 echo "Creating the Conda environment..."
-# We create the environment named 'my_env' using Python 3.12 
 # to ensure compatibility with modern library versions.
 conda create -y -n my_env python=3.12
 
@@ -18,8 +17,4 @@ pip install --upgrade pip
 echo "Installing dependencies from requirements.txt..."
 pip install -r requirements.txt
 
-echo "============================================================"
 echo "Installation complete!"
-echo "To start working in your terminal, type:"
-echo "conda activate my_env"
-echo "============================================================"
